@@ -414,7 +414,7 @@ INFO     Initialized role in /home/iurii-devops/kibana successfully.
 ## **Задача 10.** 
 #### Выложите playbook в репозиторий.
 ```
-
-
-
+https://github.com/Iurii-77777/elastic-role
+https://github.com/Iurii-77777/kibana-role
+https://github.com/Iurii-77777/old_ansible
 ```
